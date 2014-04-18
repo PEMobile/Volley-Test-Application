@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">ASTestRESTfulServices</string>
+    <string name="action_settings">Settings</string>
+    <string name="restful_response">Restful Response: </string>
+    <string name="list_car_manufacturer">Manufacturer: </string>
+    <string name="list_car_model">Model: </string>
+    <string name="list_car_type">Type: </string>
+    <string name="hint_query_string">Query String</string>
+    <string name="btn_text_manufacturer">Manufacturer</string>
+    <string name="btn_text_type">Type</string>
+
+</resources>
